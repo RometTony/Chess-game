@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp
+build_property.RootNamespace = WebApp
+build_property.ProjectDir = C:\Users\kasutaja\RiderProjects\icd0008-2022f\CheckersGame\WebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kasutaja\RiderProjects\icd0008-2022f\CheckersGame\WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckerGame/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlckdhbWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckerGame/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlckdhbWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckerGame/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlckdhbWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckerGame/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlckdhbWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckerGame/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlckdhbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckerGame/LaunchGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlckdhbWVcTGF1bmNoR2FtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckerGame/Play.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlckdhbWVcUGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersGameStates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNHYW1lU3RhdGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersGameStates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNHYW1lU3RhdGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersGameStates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNHYW1lU3RhdGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersGameStates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNHYW1lU3RhdGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersGameStates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNHYW1lU3RhdGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersOptions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNPcHRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersOptions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNPcHRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersOptions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNPcHRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersOptions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNPcHRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/CheckersOptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tlcnNPcHRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kasutaja/RiderProjects/icd0008-2022f/CheckersGame/WebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1lnhnt7yf2

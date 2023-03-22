@@ -1,0 +1,90 @@
+html {
+
+  font-size: 20px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+    font-style: oblique;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  margin: auto;
+}
+
+
+.form-group{
+  font-weight: bold;
+  color: black;
+}
+
+.table{
+  font-weight: bold;
+  color: black;
+}
+
+
+.bottomtext{
+  color: black;
+}
+
+
+body {
+  margin-bottom: 60px;
+  background-image: url("https://media.istockphoto.com/id/1364778848/photo/checkers-white-and-black-on-chess-board-close-up.jpg?b=1&s=170667a&w=0&k=20&c=4gmsMvMi2JLtA25wCKEBR6yBoQ1HqKs7RkNL_ae-BkU=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.game-table{
+  width: initial;
+  margin: auto;
+}
+
+.game-table-cell{
+  color: black;
+  width: 90px;
+  height: 90px;
+}
+
+.game-table-cell-black {
+  background-color: #519fa9 !important;
+}
+
+.game-table-cell-white {
+  background-color: #E9E5A7 !important;
+}
+
+.take{
+  -webkit-animation: NAME-YOUR-ANIMATION 1s infinite;
+  -moz-animation: NAME-YOUR-ANIMATION 1s infinite;
+  -o-animation: NAME-YOUR-ANIMATION 1s infinite;
+  animation: NAME-YOUR-ANIMATION 1s infinite;
+}
+@-webkit-keyframes NAME-YOUR-ANIMATION {
+  0%, 49% {
+    border: 2px solid #e50000;
+  }
+  50%, 100% {
+    background-color: #e50000;
+  }
+}
+
+.black {
+  font-size:30px;
+  margin-left: 8px;
+  margin-top: 8px;
+}
+
+
+.white {
+  font-size:30px;
+  margin-left: 8px;
+  margin-top: 8px;
+}
